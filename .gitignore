@@ -2,7 +2,7 @@ node_modules/
 cypress/screenshots/
 cypress/videos/
 .env
-cypress/e2e/Basic/
+
 cypress/e2e/CypressBasicCommands/
 cypress/e2e/EnergyAutomation/
 Cypress-demo/
@@ -10,3 +10,6 @@ cypress/PageObjects/
 cypress/downloads/
 cypress/fixtures/
 cypress/e2e/CheckUrls/
+cypress/e2e/Open_Energy.cy.js
+cypress/e2e/Sample_Test.cy.js
+cypress/e2e/SubaffiliateCheck.cy.js

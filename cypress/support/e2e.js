@@ -23,3 +23,6 @@ Cypress.on('uncaught:exception', (err, runnable) => {
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
 require('cypress-xpath')
+
+import 'cypress-real-events/support';    //cypress plugin realhover
+
